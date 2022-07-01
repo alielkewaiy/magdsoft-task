@@ -1,0 +1,14 @@
+{
+  "fullName": "الاسم بالكامل",
+  "email": "الايميل الالكتروني ",
+  "phone": "الهاتف",
+  "password": "الرقم السري",
+  "confirmPassword": "تاكيد الرقم السري",
+  "login": "تسجيل دخول",
+  "register": "أنشاء حساب",
+  "langBtn": "English",
+  "validation": "مطلوب",
+  "logout": "خروج",
+  "userData": "بيانات المستخدم"
+
+}

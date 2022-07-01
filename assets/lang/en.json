@@ -1,0 +1,17 @@
+{
+  "fullName": "Full Name",
+  "email": "Email",
+  "phone": "Phone",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "login": "Login",
+  "register": "Register",
+  "langBtn": "عربي",
+  "validation": "Required",
+  "logout": "Logout",
+  "userData": "user Data"
+
+
+
+
+}
